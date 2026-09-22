@@ -1,0 +1,86 @@
+generated: '2026-09-22'
+method: probed
+generator: harvest-packages.py
+source: registry metadata endpoints (registry.npmjs.org, pypi.org, rubygems.org, api.nuget.org, packagist.org, crates.io) ; github.com/assembla
+ownership_rule: 'official: true only when the registry metadata (homepage, repository, author, URLs) names the provider''s domain (assembla.com,
+  security/assembla-domain-security.yml, security/assembla-trust-center.yml) or its accepted GitHub org (assembla).'
+packages:
+- name: assembla
+  registry: pypi
+  url: https://pypi.org/project/assembla/
+  language: Python
+  official: true
+  version: 2.8.0
+  published: '2014-10-03'
+  evidence: metadata names assembla.com
+- name: ex_assembla_api
+  registry: github
+  url: https://github.com/assembla/ex_assembla_api
+  language: Elixir
+  official: true
+  version: null
+  published: '2018-01-15'
+  source_repo: https://github.com/assembla/ex_assembla_api
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: assembla_api
+  registry: github
+  url: https://github.com/assembla/assembla_api
+  language: Ruby
+  official: true
+  version: null
+  published: '2017-12-29'
+  source_repo: https://github.com/assembla/assembla_api
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: assembla-api
+  registry: github
+  url: https://github.com/assembla/assembla-api
+  language: JavaScript
+  official: true
+  version: null
+  published: '2017-09-28'
+  source_repo: https://github.com/assembla/assembla-api
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: docker-ruby
+  registry: github
+  url: https://github.com/assembla/docker-ruby
+  language: ''
+  official: true
+  version: null
+  published: '2015-06-12'
+  source_repo: https://github.com/assembla/docker-ruby
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: docker-ruby-svn
+  registry: github
+  url: https://github.com/assembla/docker-ruby-svn
+  language: ''
+  official: true
+  version: null
+  published: '2015-06-12'
+  source_repo: https://github.com/assembla/docker-ruby-svn
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: docker-golang
+  registry: github
+  url: https://github.com/assembla/docker-golang
+  language: ''
+  official: true
+  version: null
+  published: '2015-06-12'
+  source_repo: https://github.com/assembla/docker-golang
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: docker-java
+  registry: github
+  url: https://github.com/assembla/docker-java
+  language: ''
+  official: true
+  version: null
+  published: '2015-06-12'
+  source_repo: https://github.com/assembla/docker-java
+  evidence: repository in github.com/assembla, whose profile names the provider's domain
+- name: assembla
+  registry: rubygems
+  url: https://rubygems.org/gems/assembla
+  language: Ruby
+  official: false
+  version: 1.0.0
+  published: '2010-03-27'
+  evidence: 'name match only: the metadata names neither the provider''s domain nor its GitHub org'

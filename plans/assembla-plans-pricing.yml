@@ -1,0 +1,25 @@
+generated: '2026-09-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://get.assembla.com/pricing/
+sources:
+- https://get.assembla.com/pricing/
+- https://changelog.assembla.com/adding-non-perforce-users-to-perforce-plans-75615
+name: Assembla pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Starter
+  price_text: $ 12.50 per user/month
+  price: 12.5
+  billing_period: monthly
+  description: Secure Git and SVN hosting for small teams.
+- name: Growth
+  price_text: $ 19.00 per user/month
+  price: 19.0
+  billing_period: monthly
+  description: Code and project management in one platform. Built for growing teams.
+- name: Custom Cloud
+  price_text: Contact Sales
+  description: Dedicated infrastructure for organizations with advanced requirements.
+docs: https://get.assembla.com/pricing/

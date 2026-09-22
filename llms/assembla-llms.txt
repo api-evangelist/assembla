@@ -1,0 +1,1003 @@
+﻿# Assembla
+
+> All-in-one source code and project management platform
+
+
+## Pages
+
+- [Schedule Meeting](https://get.assembla.com/contact-us/schedule/): Thank You A member of the Assembla team will be contacting you shortly. Want to skip the wait? Book a...
+- [Pricing Project Management](https://get.assembla.com/pricing/pm-plan/): Full project management for software teams at $6.50/user/month. Kanban, Scrum, tickets, milestones, wikis, and burndown charts. No source code hosting required. Start free.
+- [Integrations](https://get.assembla.com/platform/integrations/): Connect Assembla to the tools your team already uses. Native integrations with Slack, Jira, GitHub, Jenkins, Travis CI, Zapier, Trello, TestRail, and more.
+- [AI Landing Page](https://get.assembla.com/ai-powered-devops/): Assembla connects your AI agents to your entire DevOps workflow: tickets, commits, merge requests, and branches, through a unified MCP-powered platform. Git, SVN, and Perforce. One platform. Any AI.
+- [SVN Cloud Hosting](https://get.assembla.com/svn-cloud-hosting/)
+- [Assembla 2026 Update: New Interface, Bug Fixes &amp; What’s Coming Next](https://get.assembla.com/platform/assembla-2026-update/): Assembla modernised its interface, resolved a significant bug backlog, and improved search in 2026. See what changed, what teams told us, and what&#039;s on the roadmap - from the Assembla team.
+- [Pricing Perforce Cloud](https://get.assembla.com/pricing/perforce-cloud/): Explore Assembla's managed Perforce Helix Core cloud pricing. Helix Core license included. SaaS plans from $58.00/user/month. Free trial available. No DevOps required.
+- [SVN vs ProjectLocker](https://get.assembla.com/projectlocker-alternative/): Moving On from ProjectLocker? Migrate Your SVN to Assembla with Confidence Keep your repositories, history, and workflows — without downtime...
+- [Managed Perforce Hosting | Bring Your License to the Cloud](https://get.assembla.com/enterprise-perforce-cloud-hosting/)
+- [SVN](https://get.assembla.com/svn-on-premises/): Assembla configures and supports self-hosted SVN on your infrastructure with Active Directory, LDAP authentication, and MFA support. For enterprise teams with strict security and data residency requirements.
+- [Perforce Gaming Studio](https://get.assembla.com/perforce-hosting-for-game-studios/): Assembla gives you the full power of Perforce Helix Core in the cloud, with the most experienced DevOps and customer support teams at your back.
+- [Perforce Gaming](https://get.assembla.com/perforce-gaming-studio/): Fully-Managed Perforce P4 Hosting Built for Game Studios No DevOps. No downtime. Just scalable, secure hosting optimized for Unreal, large...
+- [Pricing](https://get.assembla.com/pricing/): Explore Assembla Cloud pricing plans for managed Git and SVN hosting. Start free for 14 days. No credit card required.
+- [Perforce Enterprise Cloud](https://get.assembla.com/perforce-enterprise-cloud/): Dedicated single-tenant Perforce (P4) cloud hosting for enterprise teams. Custom architecture, zero-downtime migration, P4 Code Review, P4 Plan, P4 DAM included. Official Perforce partner since 2012.
+- [Perforce](https://get.assembla.com/perforce/): Run Perforce (P4) in the cloud, fully managed by Assembla. No infrastructure, no DevOps overhead. SOC 2 certified, 99.9% uptime, official Perforce partner since 2015. 14-day free trial.
+- [Home](https://get.assembla.com/): Assembla is the source code management platform for Perforce, SVN, and Git teams. Managed hosting, SOC 2 certified, project management included. Start free.
+- [Subversion](https://get.assembla.com/subversion/): Managed SVN cloud hosting for enterprise teams. No server management, no forced migration to Git. SOC 2 certified, 99.9% uptime, exclusive SVN features. 14-day free trial.
+- [Product updates](https://get.assembla.com/product-updates/): Stay updated with the latest news and features on Assembla. Discover how our improvements support your project management and source code needs.
+- [Falcon's Beyond](https://get.assembla.com/customer-stories/falcons-beyond/): Powering game development with secure and scalable Perforce hosting. See how Assembla helps Falcon's Beyond collaborate effectively in their projects.
+- [Ambitious Games](https://get.assembla.com/customer-stories/ambitious-games/): Ambitious Games chose Assembla for their Perforce Helix Core hosting. See how we improved their game development workflow.
+- [Semiconductors](https://get.assembla.com/semiconductors/): Conquer the increasing complexity of semiconductor design with a merged SCM+PM tool that puts all research and development into one place.
+- [Entertainment](https://get.assembla.com/entertainment/): From building visual effects to fully-fledged animated films, Assembla’s SCM+PM solution connects to Unreal Engine with easy and accelerates creative projects.
+- [Security](https://get.assembla.com/security/): Assembla delivers enterprise source code security for Git, SVN, and Perforce. SOC 2 Type II certified, GDPR compliant, AES-256 encryption, RBAC, and IP whitelisting. 20+ years, zero infrastructure compromises.
+- [Industries Overview](https://get.assembla.com/industries-overview/): At Assembla, we empower teams in the game dev, film and semiconductor industry, and more, with a source code and project management platform.
+- [Sign up](https://get.assembla.com/blog/sign-up/): Join Assembla for seamless version control &amp; project management. Manage Git, SVN, or Perforce in one platform. Sign up to boost team productivity.
+- [Projects](https://get.assembla.com/project-management/): See why thousands of companies are using Assembla’s endlessly adaptable cloud project management platform for their toughest projects.
+- [Git](https://get.assembla.com/git/): Managed Git and Git LFS hosting with project management built in. The GitHub and GitLab alternative for teams that also use SVN or Perforce. SOC 2 certified. Free trial.
+- [Game Development](https://get.assembla.com/game-dev/): With a singular SCM and PM platform, game developers can build at any scale, on any number of repositories, while ensuring quality through modern tools.
+- [About us](https://get.assembla.com/about-us/): We help technical teams merge their source code and project management—everything they need to work efficiently, innovate deeply, and maximize their potential.
+- [Made with Unity](https://get.assembla.com/customer-stories/made-with-unity/): Made with Unity uses Assembla's Perforce cloud hosting for seamless collaboration and efficient development. Learn how Assembla empowers their team.
+- [Blog](https://get.assembla.com/blog/): Read the latest news and technical tips about Source Code Management, Source Code Hosting, Perforce, SVN and Git.
+- [Source Code Management](https://get.assembla.com/platform/version-control/): Assembla runs SVN, Perforce, and Git repositories in one managed platform. Plan, review, and ship code with end-to-end traceability and no DevOps overhead.
+- [Project Management](https://get.assembla.com/platform/project-management/): Assembla brings project management and version control together in one platform. Plan sprints, track commits, and ship faster across SVN, Perforce, and Git repositories.
+- [Platform](https://get.assembla.com/platform/): Assembla merges source code repos and task management. Explore our secure platform where version control meets flexible project management tools.
+- [Contact Sales](https://get.assembla.com/contact-us/): Contact Assembla&#039;s sales team to learn how our all-in-one platform can streamline your version control and project management needs.
+- [Source Code Managment](https://get.assembla.com/source-code-management/): With 2 million active repositories and 10 million commits/month, Assembla is the agile source code management solution for deeply creative and complex projects.
+- [Customer Stories](https://get.assembla.com/customer-stories/): Discover how teams use Assembla to streamline version control and project management. Read customer success stories and see Assembla in action.
+
+
+## Posts
+
+- [MCP for Project Management: Give Your Project Manager Superpowers](https://get.assembla.com/blog/mcp-for-project-management-give-your-project-manager-superpowers/): AI can help project managers find what matters, spot things that need attention, and spend less time chasing information.
+- [SVN in the AI Era: How AI Is Changing Subversion Workflows](https://get.assembla.com/blog/svn-in-the-ai-era-how-ai-is-changing-subversion-workflows/): AI coding tools aren’t just for Git. See how AI agents, MCP, and automation can work with existing SVN workflows...
+- [Unreal Engine source control: how to choose and set it up in 2026](https://get.assembla.com/blog/version-control-for-unreal-engine/): How to choose source control for Unreal Engine and set up Perforce: file locking for big binary assets, plus how to run the server. 2026 guide.
+- [How to migrate Perforce to managed hosting and keep your license](https://get.assembla.com/blog/migrate-perforce-to-managed-hosting/): Migrate Perforce to managed hosting without touching your license. Keep the contract you negotiated, hand us the servers, backups, upgrades, and the move
+- [Managed Perforce vs self-hosted: is the ROI worth it?](https://get.assembla.com/blog/managed-perforce-vs-self-hosted-roi/): See where the ROI of managed Perforce vs. self-hosted really comes from: eliminating downtime risk and single points of failure, not saving maintenance hours.
+- [The True Cost of Self-Hosting Perforce](https://get.assembla.com/blog/cost-of-self-hosting-perforce/): What self-hosting Perforce really costs: not the light upkeep, but the downtime that can block your whole team when the server goes down. See the breakdown.
+- [Lore vs Perforce: is Epic&#039;s new version control ready for game studios?](https://get.assembla.com/blog/lore-vs-perforce/): Lore vs Perforce for game studios: what Epic&#039;s open-source VCS does well, where its file locking falls short, and when managed Perforce is the safer call.
+- [What we’ve changed in Assembla, and where we’re headed next.](https://get.assembla.com/blog/what-we-changed-assembla-2025/): A progress report from the Assembla team: what changed in our interface and usability in 2025, what we heard from users, what we fixed, and an honest account of what&#039;s still on our roadmap.
+- [Assembla vs ProjectLocker: which delivers better ROI?](https://get.assembla.com/blog/assembla-vs-projectlocker-which-delivers-better-roi/): Let’s say your development team discovers their repository checkout times have ballooned to over 45 minutes. After a compliance audit,...
+- [GitHub Project Management vs Assembla Spaces](https://get.assembla.com/blog/github-project-management-vs-assembla-spaces/): Adoption of GitHub Projects rose by 20% in 2025, as more teams looked to keep project workflows natively within the...
+- [How to Migrate from SVN to Perforce: A Strategic Guide with Assembla](https://get.assembla.com/blog/how-to-migrate-from-svn-to-perforce/): Every day you delay is another day your team struggles with outdated tools while competitors forge ahead with modern, efficient...
+- [Perforce vs PlasticSCM for Small to Medium Indie Game Dev Teams](https://get.assembla.com/blog/perforce-vs-plasticscm-indie-game-dev-teams/): Curious about Perforce vs PlasticSCM? Discover the key differences in setup, performance, binary file handling, Unity and Unreal integration, and more.
+- [Latest Updates [25.06]: New Metrics Dashboard, Improved User Management, and Key Fixes Across Tickets and Repos](https://get.assembla.com/blog/latest-updates-2506/): New Metrics Dashboard We’ve introduced a powerful new Metrics Dashboard to help you visualize and manage your team’s work more...
+- [GitHub vs Assembla: Comparing Git Hosting, Project Management, and Team Visibility](https://get.assembla.com/blog/github-vs-assembla/): GitHub vs Assembla: Compare Git hosting, project management, and team visibility to find the right solution for your workflows.
+- [Using Git Version Control on Unreal Engine Projects](https://get.assembla.com/blog/using-git-version-control-on-unreal-engine-projects/): Learn how to use Git for Unreal Engine projects with improved scalability, UX, and tools tailored to meet game developers’ needs in 2025.
+- [The Role of the PRD in Managing Client Expectations [PRD template] ](https://get.assembla.com/blog/prd-template-to-managing-client-expectations/): Use this PRD template to manage client feedback and expectations while keeping software projects on time and within budget.
+- [Trunk-Based Development vs Git Flow: a comparison](https://get.assembla.com/blog/trunk-based-development-vs-git-flow/): We compare Trunk-Based Development vs Git Flow, explore some best practices, merge conflict resolutions, and which teams can benefit from each approach.
+- [Git vs Perforce: which is better for game development?](https://get.assembla.com/blog/git-vs-perforce-game-development/): Comparing Git vs Perforce for game development? We explore key differences, pros and cons, and integrations to help you choose the right version control system.
+- [Is SVN still used in 2026?](https://get.assembla.com/blog/is-subversion-svn-still-used/): Is SVN still used in 2026? Yes, and here&#039;s the proof. See which industries still run Subversion, why they stay, and how teams host managed SVN today.
+- [How to Start a Game Studio: From Zero to Launch With Proven Tips](https://get.assembla.com/blog/how-to-start-a-game-studio/): If you've always dreamt about starting your own video game company, we compiled  practical tips, tools and resources on how to start a game studio.
+- [Top Game Development Tools &amp; Platforms Guide: from Game Engines to CI/CD](https://get.assembla.com/blog/game-development-software/): Choosing the right game development software puts you one step closer to success, so we give you a quick rundown of the top game development tools &amp; platforms.
+- [DevOps Practices in the Gaming Industry: benefits and tools](https://get.assembla.com/blog/devops-game-development/): Whether you’re an indie studio or an AAA studio, investing in DevOps practices and tools can improve production pipelines in the gaming industry. 
+- [What is the best SVN hosting for your team?](https://get.assembla.com/blog/svn-hosting/): We compare on-prem vs Subversion cloud hosting, as well as several Subversion hosting services, to help you find the best SVN hosting for your development team.
+- [Source Code Security Best Practices: A Complete Guide](https://get.assembla.com/blog/source-code-security/): Protecting source code is vital to every software developer. Make sure you follow a set of source code security best practices to prevent code from leaking.
+- [Perforce Edge Server vs Forwarding Replicas: which is better](https://get.assembla.com/blog/perforce-edge-server-vs-forwarding-replicas/): Understand the technical differences between Perforce Edge Servers vs Forwarding Replicas and how they can enhance performance for remote teams.
+- [Perforce vs Git: Comparing the Differences](https://get.assembla.com/blog/perforce-vs-git/): Perforce vs Git compared: how they handle large binary files, branching, permissions, and pricing, and when a team should choose managed Perforce hosting.
+- [How to Choose the Best Version Control System for Your Team [free guide]](https://get.assembla.com/blog/how-to-choose-version-control-system/): Uncover key steps to choose the best version control system for your team. Compare features, cloud vs. self‑hosted setups, scalability, and team fit.
+- [How to Start Creating a Game: Step-by-Step Guide to Build Your First Game](https://get.assembla.com/blog/building-first-game/): Learn how to start creating a game, from game design to development. Start building your first video game step by step with the right tools.
+- [Continuous Integration, Delivery and Deployment: a quick guide](https://get.assembla.com/blog/continuous-delivery-deployment-integration/): Assembla's quick guide explains what is continuous integration, continuous delivery and continuous deployment, as well as some tools and best practices.
+- [4 Best Practices to Fix Bugs in an Agile Development](https://get.assembla.com/blog/how-to-best-handle-bugs-in-your-agile-practices/): Are your current error management practices slowing your team down? Learn how to fix bugs and manage errors in agile development with 4 actionable tips.
+- [Perforce hosting options: how to choose the right one in 2026](https://get.assembla.com/blog/perforce-hosting/): Compare Perforce hosting options in 2026: on-premises, self-managed cloud, P4 Cloud, and managed hosting. See which fits your team size, region, and budget.
+- [Software development team structure: 4 precious tips to unite developers &amp; project managers](https://get.assembla.com/blog/software-devs-project-managers/): Building a strong software development team structure is key for faster shipments. Here are 4 precious tips to align project managers and software developers.
+- [10 Tips to Supercharge Perforce Performance and Boost Remote Development](https://get.assembla.com/blog/how-to-maximize-perforce-performance/): Learn from the best: 10 tips to supercharge Perforce performance and boost remote development. Assembla has 10+ years experience hosting Perforce in the cloud.
+- [Latest Updates [25.04]: More SVN Flexibility, Self-Hosted Improvements, and Git Repository Fixes.](https://get.assembla.com/blog/latest-updates-2404/): This month’s release focuses on flexibility for Subversion users, critical bug fixes across repositories, tickets, and time tracking.
+- [8 Expert Tips to Reduce Perforce Server Hosting Costs by Up to 90%](https://get.assembla.com/blog/reduce-perforce-server-hosting-costs/): Reduce Perforce server hosting costs by up to 90% without sacrificing performance. Discover key strategies to optimize cloud storage, compute,...
+- [Latest Updates [25.03]: Assembla Self-Hosted, Improved User Management, and More](https://get.assembla.com/blog/latest-updates-2503/): Introducing Assembla Self-Hosted We’re excited to announce the release of Assembla Self-hosted, a powerful new deployment option designed for organizations...
+- [SVN Repository Optimization: Tips for Performance, Structure, and Scale](https://get.assembla.com/blog/svn-repository-optimization-tips/): In this guide, we'll talk through proven strategies for structuring and optimizing your SVN repository to avoid common pitfalls.
+- [Latest Updates [25.02]: Full Git LFS Support, S3 Backup and User UI Improvements, among others.](https://get.assembla.com/blog/latest-updates-2502/): We’re kicking off this update with a major enhancement—full support for Git LFS in Assembla. If you use Git and...
+- [Latest Updates [25.01]: New Premium Support Add-on, MR Tags and Filtering, and more.](https://get.assembla.com/blog/latest-updates-2501/): We’re excited to roll out several key updates focused on improving usability, organization, and support.
+- [TortoiseSVN + Assembla Cloud Repos: A Guide to Modern, Reliable SVN](https://get.assembla.com/blog/guide-tortoisesvn-svn-cloud-repos/): Learn how to connect TortoiseSVN to cloud repos for a modern, reliable SVN setup with better scalability, accessibility, and performance.
+- [Real Git Remote Security Vulnerabilities and How to Mitigate Them](https://get.assembla.com/blog/git-remote-security-risks/): Discover the real risks of exposed secrets in Git repositories. Learn why Git remote security is critical and how to protect your code from growing threats.
+- [Adaptive Software Development: Or How to Deliver on Time and on Budget](https://get.assembla.com/blog/adaptive-software-development-benefits/): Dealing with shifting IT project requirements? See how Adaptive Software Development keeps projects on track, costs low, and customers happy.
+- [Top GitHub Alternatives for 2026: Find the Right Platform](https://get.assembla.com/blog/top-github-alternatives/): Compare the best GitHub alternatives for 2026: GitLab, Bitbucket, Assembla, Gitea. See which one fits your team on cost, control, security, and SVN support.
+- [Latest Updates [24.12]: New MR flow and Fixes to Wiki, Search, and Time](https://get.assembla.com/blog/latest-updates-2412/): This release brings quality-of-life improvements to the Wiki tool, search, ticket management, the Time tool, and a new quick Merge...
+- [“Are Git and GitHub the Same Thing?” Git vs GitHub and Key Alternatives](https://get.assembla.com/blog/git-vs-github-are-git-and-github-the-same/): Demystify Git vs GitHub, explore alternatives like GitLab, Bitbucket, and Assembla, and gain insights to choose the right version control...
+- [Latest Updates [24.11]: Perforce, Search, Wiki and more](https://get.assembla.com/blog/latest-updates-2411/): We made significant changes to our search system, enhanced support for Perforce and GitHub, and tackled some pesky bugs.
+- [A Deep Dive into the Software Development Life Cycle: Tools and Best Practices for Each Phase](https://get.assembla.com/blog/software-development-life-cycle-deep-dive/): Explore the six phases of the SDLC and learn best practices to streamline your project. Discover how Assembla supports the SDLC with VCS &amp; PM tools.
+- [Software Release Management: How to Deliver Quality Software on Time](https://get.assembla.com/blog/software-release-management/): Discover how Agile software release management ensures timely, high-quality deliveries with incremental updates, risk management, and efficient workflows.
+- [Latest Updates [24.10]: Smarter Search and More](https://get.assembla.com/blog/latest-updates-smarter-search-and-more-24-10/): See Assembla's latest updates, including enhanced search with space filters, advanced ticket filters, security upgrades, and performance improvements.
+- [Why Integrated Documentation is Key to Software Team Collaboration](https://get.assembla.com/blog/why-integrated-documentation-is-key/): Learn how integrated documentation eliminates knowledge silos, boosts software team collaboration, and links code, tickets, and tools for streamlined workflows.
+- [How to Optimize Git Remote Repositories: A Comprehensive Guide](https://get.assembla.com/blog/how-to-optimize-git-remote-repositories-a-comprehensive-guide/): Optimize your Git remote for performance and security. Discover best practices to manage code history, reduce clutter, and keep your...
+- [The 5 Key IT Task Management Frequently Asked Questions](https://get.assembla.com/blog/5-it-task-management-faqs/): This article addresses the top 5 IT task management software questions frequently asked by developers and provides actionable, consensus-driven answers.
+- [Introducing a Major Wiki Tool Upgrade: New Editor](https://get.assembla.com/blog/wiki-tool-upgrade-2410/): Assembla’s Wiki tool has received a significant update. Among other things, the new WYSIWYG editor will enhance your knowledge sharing...
+- [Introducing the New Logo: Our Commitment to Seamless Collaboration](https://get.assembla.com/blog/introducing-our-new-logo/): Today, we’re excited to unveil our new logo—a visual representation of our mission and the next step in our journey.
+- [Understanding Scope Creep: Causes and Prevention Strategies in Agile Sprints](https://get.assembla.com/blog/scope-creep-agile-software-development/): Learn how to manage scope creep in Agile projects, its impact on sprints, and strategies to keep Agile development on...
+- [Breaking Down Agile Estimates: Story Point Estimation, T-shirt Sizing and Time](https://get.assembla.com/blog/agile-estimates-story-points-tshirt-sizing-time/): Explore Agile estimates, including story points, time estimates, and T-shirt sizing, to streamline your software development process and manage project complexity.
+- [Latest Maintenance Update [24.08]](https://get.assembla.com/blog/maintenance-update-2408/): The latest maintenance updates include a host of new fixes and improvements that will give your projects even more flexibility.
+- [5 Reasons to Link Code Commits to Tickets](https://get.assembla.com/blog/5-reasons-to-link-code-commits-to-tickets/): Discover the top 5 benefits of linking code commits to tickets. Learn how this simple practice can enhance team communication,...
+- [Choosing the Right Type of Source Code Repository for Your Project](https://get.assembla.com/blog/choosing-source-code-repository-for-your-project/): Discover the differences between monorepo, polyrepo, and hybrid repo structures to choose the best source code repository type for your...
+- [Source Control with Git: Key Tips to Improve Collaboration](https://get.assembla.com/blog/source-control-with-git-to-improve-collaboration/): Master source control with Git as your team grows. Learn key strategies to set up scalable tools, processes, and best...
+- [Getting Started with Agile IT Project Management on Assembla](https://get.assembla.com/blog/getting-started-agile-it-project-management-assembla/): Assembla's Agile IT project management software seamlessly integrates code repositories with customizable Agile processes, optimizing your development workflow.
+- [How to Choose the Best Agile Framework for Your Team](https://get.assembla.com/blog/choose-best-agile-framework-for-your-team/): Discover the top Agile frameworks that promote collaboration and adaptability, rooted in the Agile Manifesto's principles for successful software development.
+- [Git Project Management: Advanced Git Strategies for Developers and Project Managers](https://get.assembla.com/blog/git-project-management/): Discover how integrating Git with project management tools can enhance team collaboration and streamline workflows. Explore advanced Git techniques.
+- [The Benefits of a Merged Project Management and Version Control Environment](https://get.assembla.com/blog/why-merge-project-management-version-control/): Integrate version control with project management tools for seamless collaboration. Discover benefits and options to streamline your team's workflow efficiently.
+- [Full Speed Ahead: Assembla’s New Product Roadmap](https://get.assembla.com/blog/product-roadmap-0724/): Discover Assembla's upcoming product roadmap, featuring key updates and innovations. Watch our webinar or read the article for detailed insights.
+- [From Manual to AI: Code Review Best Practices](https://get.assembla.com/blog/code-review-best-practices/): Enhance product quality by incorporating manual, automated, and AI code reviews. Reduce errors, boost security, aid new developers, and improve consistency and documentation.
+- [Troubleshooting Merge Conflicts: Common Scenarios and How to Resolve Them](https://get.assembla.com/blog/merge-conflicts/): Learn how to manage merge conflicts in a distributed codebase. Discover what causes conflicts, how to avoid them, and effective...
+- [Latest Assembla Updates [24.06]](https://get.assembla.com/blog/assembla-update-2406/): We're thrilled to bring you the latest updates in Assembla version 24.06, packed with a series of bug fixes and enhancements.
+- [Git LFS: The Pocketbook Explanation](https://get.assembla.com/blog/git-lfs/): Explore Git LFS: its benefits, drawbacks, and alternatives like Helix Core, Unity Version Control, SVN, Helix4Git, and Git-Annex for managing large binary files efficiently.
+- [What Makes a Good Project Management Tool for Software Development?](https://get.assembla.com/blog/what-makes-good-project-management-tool-software-development/): Discover how to evaluate a good project management tool effectively. Learn the key factors to consider during demos or trials to find the best tool for your team's needs.
+- [Proven Branching Strategies for Your Development Team [2024]](https://get.assembla.com/blog/branching-strategies/): Branching strategies to optimize your team's workflow, simplify code collaboration and minimize merge conflicts and regression bugs.
+- [Assembla Maintenance Update [24.05]](https://get.assembla.com/blog/maintenance-update-2405/): In May we continued to address your feedback and resolved over a dozen customer-reported issues.
+- [Key Strategies to Effectively Manage Remote Software Teams and Contributors](https://get.assembla.com/blog/how-to-manage-remote-software-teams/): Discover tips to manage remote teams effectively amidst communication, time zone, and productivity challenges.
+- [Deploying an SVN Server: From Manual to Out-of-the-Box Solutions](https://get.assembla.com/blog/svn-server/): See how you can set up an SVN server for your dev team, from manual setups to quick, out-of-the-box solutions. Find the best approach for your workflow.
+- [How to Easily Migrate from SVN to Git](https://get.assembla.com/blog/migrate-from-svn-to-git/): Migrating your projects from SVN to Git can seem like a daunting task. But it is straightforward when you use...
+- [SVN vs Git: Finding the Best Fit for Your Development Workflow](https://get.assembla.com/blog/svn-vs-git/): Choosing the right version control system is a crucial step. SVN vs Git are popular options, each with its own...
+- [The Benefits of AWS DevOps Outsourcing](https://get.assembla.com/blog/aws-devops-outsourcing/): Using AWS DevOps outsourcing can help your team be more efficient and cost-effective by offloading the work to a DevOps...
+- [Introducing Assembla’s Latest Maintenance Update](https://get.assembla.com/blog/maintenance-update-0524/): The latest maintenance update includes a significant number of improvements and fixes. Now live!
+- [A Practical Guide to Apache SVN Version Control](https://get.assembla.com/blog/svn-version-control/): Learn all about SVN version control and why it remains a top choice for managing large codebases and collaborating efficiently.
+- [Choosing the Right Git Hosting Solution for Your Team](https://get.assembla.com/blog/git-hosting/): Discover the ideal Git hosting provider for your team's collaboration and technical needs. Explore factors like workflow, infrastructure, and maintenance.
+- [The Complete Guide to AWS Perforce Deployment Options](https://get.assembla.com/blog/aws-perforce/): Explore deployment options &amp; maximize benefits with this complete guide for AWS Perforce. Discover the power of Perforce on AWS for top-notch version control.
+- [Perforce pricing: what it really costs to run Perforce in 2026](https://get.assembla.com/blog/perforce-pricing/): How much does Perforce really cost? We break down Perforce pricing, the Helix Core license, the $39 P4 Cloud plan, and what managed hosting really costs.
+- [Key Considerations for an On-Premise to Cloud Migration](https://get.assembla.com/blog/on-premise-to-cloud-migration/): Performing an on-premise to cloud migration can be a challenging task. But choosing managed cloud services can help make it easier (and faster) for your team.
+- [Automotive Software Development with Perforce](https://get.assembla.com/blog/automotive-software-development-tools/): Assembla provides managed cloud hosting for automotive software development. Learn how our scalability, storage, performance, and security can help your team.
+- [Why DevOps Outsourcing May Be Right for Your Team](https://get.assembla.com/blog/devops-outsourcing/): For teams that are looking to save time and money, DevOps outsourcing can be a great option. Managed DevOps can provide a wide range of benefits.
+- [Why Perforce is a Great Virtual Reality Development Tool](https://get.assembla.com/blog/virtual-reality-development-tools/): Perforce software offers a range of excellent virtual reality development tools that can help your team save both time and...
+- [New: The Assembla Platform is Now Available for Perforce Single-Tenant Setups](https://get.assembla.com/blog/assembla-platform-perforce-single-tenant/): You can now utilize all the benefits of the Assembla Platform on a fully managed, Single-Tenant instance that can be...
+- [Tips for Building an Effective Game Design Document](https://get.assembla.com/blog/making-game-design-document/): Knowing how to make a great game design document will help your team organize your strategy. This is your guide on how to make a great design doc.
+- [Perforce Solutions for Virtual Production](https://get.assembla.com/blog/perforce-solutions-virtual-production/): Using Perforce with your virtual production software can improve productivity and cut inefficiencies. Learn more about using Perforce for filmmaker...
+- [5 Indie Game Funding Success Stories](https://get.assembla.com/blog/indie-game-funding-success-stories/): Explore how 5 indie game studios successfully found funding and discover varied funding sources, from crowdfunding to venture capital.
+- [Source Code Security: The Importance of a SOC 2 Type II Compliant SCM Platform](https://get.assembla.com/blog/soc-2-type-ii/): See how selecting a source code management platform with SOC 2 Type II compliance puts any concerns of moving source code to the cloud to rest.
+- [Q&amp;A With Hyperion Realms](https://get.assembla.com/blog/qa-hyperion-realms/): Q&A with Hyperion Realms—an up-and-coming game studio crafting an open-world survival game with the help of Assembla Perforce Cloud.
+- [Popular Source Code Management Tools and How They Solve Problems [2024] ](https://get.assembla.com/blog/popular-scm-tools/): Effective source code management tools will improve productivity and collaboration. Here is the breakdown of the most popular scm tools...
+- [Choosing Bitbucket Alternatives for Enterprise Solutions](https://get.assembla.com/blog/bitbucket-alternatives/): While Bitbucket is a great option for many developers, there are several excellent Bitbucket alternatives on the market. Find out which one is right for you.
+- [New Feature: Automatic User Reports via API](https://get.assembla.com/blog/new-feature-api-user-reports/): Introducing a new feature: nightly reports of User Information. Portfolio Admins can easily access and integrate the data into their...
+- [Managing Complex Workflows in Chip Design Software with Perforce](https://get.assembla.com/blog/semiconductor-design-complex-workflows/): Using complex workflow management best practices will enable your team to get the most out of your chip design software. Find out how Perforce can help.
+- [Why Remote Virtual Production Studios are Using Perforce](https://get.assembla.com/blog/virtual-production-perforce/): Discover why some remote virtual production studios are choosing Perforce's Helix Core for seamless version control in evolving home and hybrid film production.
+- [Retain Top Gaming Talent With These Tactics](https://get.assembla.com/blog/retain-gaming-talent-tactics/): Elevate your game studio by implementing tactics to retain gaming talent. Let’s walk through some forward-thinking approaches about how to retain your talent.
+- [DEI Strategies to Improve Your Game Dev Talent Acquisition](https://get.assembla.com/blog/game-dev-talent-acquisition/): Game Dev talent acquisition is one of the industry's top challenges. Explore successful but underused DEI hiring strategies to tackle this issue.
+- [Exploring DevSecOps: Integrating Security into Development and Operations](https://get.assembla.com/blog/devsecops-process/): Introducing the DevSecOps Process into your team can help build collaboration, improve timelines, and make it easier to manage the workload.
+- [How to use Assembla for Agile Sprint Planning and Management](https://get.assembla.com/blog/sprint-planning-software-development/): Sprints play a key role in product delivery for software development teams embracing Agile Scrum. Learn how you can map out your sprints on Assembla.
+
+#
+# Detailed Content
+
+
+## Pages
+
+
+
+## Posts
+
+- Published: 2026-09-16
+- Modified: 2026-09-17
+- URL: https://get.assembla.com/blog/mcp-for-project-management-give-your-project-manager-superpowers/
+- Categories: Project Management
+- Tags: AI Agents, Artificial Intelligence, MCP, project management
+AI can help project managers find what matters, spot things that need attention, and spend less time chasing information.
+
+
+- Published: 2026-09-11
+- Modified: 2026-09-11
+- URL: https://get.assembla.com/blog/svn-in-the-ai-era-how-ai-is-changing-subversion-workflows/
+- Categories: Subversion
+- Tags: Artificial Intelligence, MCP, svn, version control
+AI coding tools aren’t just for Git. See how AI agents, MCP, and automation can work with existing SVN workflows while maintaining security and control.
+
+
+> How to choose source control for Unreal Engine and set up Perforce: file locking for big binary assets, plus how to run the server. 2026 guide.
+
+- Published: 2026-09-09
+- Modified: 2026-09-09
+- URL: https://get.assembla.com/blog/version-control-for-unreal-engine/
+- Categories: Source code Management
+
+> Migrate Perforce to managed hosting without touching your license. Keep the contract you negotiated, hand us the servers, backups, upgrades, and the move
+
+- Published: 2026-09-07
+- Modified: 2026-09-09
+- URL: https://get.assembla.com/blog/migrate-perforce-to-managed-hosting/
+- Categories: Perforce
+- Tags: helix core
+
+> See where the ROI of managed Perforce vs. self-hosted really comes from: eliminating downtime risk and single points of failure, not saving maintenance hours.
+
+- Published: 2026-09-04
+- Modified: 2026-09-04
+- URL: https://get.assembla.com/blog/managed-perforce-vs-self-hosted-roi/
+- Categories: Perforce
+- Tags: helix core
+
+> What self-hosting Perforce really costs: not the light upkeep, but the downtime that can block your whole team when the server goes down. See the breakdown.
+
+- Published: 2026-09-02
+- Modified: 2026-09-02
+- URL: https://get.assembla.com/blog/cost-of-self-hosting-perforce/
+- Categories: Perforce
+- Tags: helix core
+
+> Lore vs Perforce for game studios: what Epic's open-source VCS does well, where its file locking falls short, and when managed Perforce is the safer call.
+
+- Published: 2026-08-04
+- Modified: 2026-08-14
+- URL: https://get.assembla.com/blog/lore-vs-perforce/
+- Categories: Perforce, Game Development, Source code Management
+
+> A progress report from the Assembla team: what changed in our interface and usability in 2025, what we heard from users, what we fixed, and an honest account of what's still on our roadmap.
+
+- Published: 2026-04-28
+- Modified: 2026-04-28
+- URL: https://get.assembla.com/blog/what-we-changed-assembla-2025/
+- Categories: DevSecOps
+
+- Published: 2026-03-13
+- Modified: 2026-04-06
+- URL: https://get.assembla.com/blog/assembla-vs-projectlocker-which-delivers-better-roi/
+- Categories: DevSecOps
+
+- Published: 2025-10-17
+- Modified: 2025-10-17
+- URL: https://get.assembla.com/blog/github-project-management-vs-assembla-spaces/
+- Categories: Git
+
+- Published: 2025-07-21
+- Modified: 2025-08-21
+- URL: https://get.assembla.com/blog/how-to-migrate-from-svn-to-perforce/
+- Categories: Perforce, Subversion
+Every day you delay is another day your team struggles with outdated tools while competitors forge ahead with modern, efficient development environments.
+
+
+> Curious about Perforce vs PlasticSCM? Discover the key differences in setup, performance, binary file handling, Unity and Unreal integration, and more.
+
+- Published: 2025-07-17
+- Modified: 2025-07-17
+- URL: https://get.assembla.com/blog/perforce-vs-plasticscm-indie-game-dev-teams/
+- Categories: Perforce, Game Development
+When it comes to Perforce vs PlasticSCM, which of the two should small/medium game development teams choose? In this article, we’ll help you decide just that.
+
+
+- Published: 2025-07-15
+- Modified: 2025-07-15
+- URL: https://get.assembla.com/blog/latest-updates-2506/
+- Categories: Assembla News
+
+> GitHub vs Assembla: Compare Git hosting, project management, and team visibility to find the right solution for your workflows.
+
+- Published: 2025-06-27
+- Modified: 2025-07-03
+- URL: https://get.assembla.com/blog/github-vs-assembla/
+- Categories: Git, Project Management
+
+> Learn how to use Git for Unreal Engine projects with improved scalability, UX, and tools tailored to meet game developers’ needs in 2025.
+
+- Published: 2025-06-19
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/using-git-version-control-on-unreal-engine-projects/
+- Categories: Git, Game Development
+
+> Use this PRD template to manage client feedback and expectations while keeping software projects on time and within budget.
+
+- Published: 2025-06-06
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/prd-template-to-managing-client-expectations/
+- Categories: Software Development
+Managing client expectations and feedback while keeping a software project on time and on budget is a challenge most project managers face.
+
+
+> We compare Trunk-Based Development vs Git Flow, explore some best practices, merge conflict resolutions, and which teams can benefit from each approach.
+
+- Published: 2025-06-04
+- Modified: 2026-08-07
+- URL: https://get.assembla.com/blog/trunk-based-development-vs-git-flow/
+- Categories: Source code Management, Git, Perforce, Subversion
+- Tags: version control
+Explore the benefits of Trunk-Based Development and Git Flow, and learn which branching strategy best suits your team in our latest post.
+
+
+> Comparing Git vs Perforce for game development? We explore key differences, pros and cons, and integrations to help you choose the right version control system.
+
+- Published: 2025-06-04
+- Modified: 2026-09-10
+- URL: https://get.assembla.com/blog/git-vs-perforce-game-development/
+- Categories: Perforce, Game Development, Git
+- Tags: git, helix core, source code management, version control
+Trying to decide between Git vs Perforce for game development? We’ve got a full breakdown with the pros and cons for each.
+
+
+> Is SVN still used in 2026? Yes, and here's the proof. See which industries still run Subversion, why they stay, and how teams host managed SVN today.
+
+- Published: 2025-06-04
+- Modified: 2026-08-03
+- URL: https://get.assembla.com/blog/is-subversion-svn-still-used/
+- Categories: Subversion
+- Tags: svn, version control
+SVN has been popular for many years, but it is being sunset by Github. So where is Subversion still used and why is it a great choice?
+
+
+> If you've always dreamt about starting your own video game company, we compiled practical tips, tools and resources on how to start a game studio.
+
+- Published: 2025-06-04
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/how-to-start-a-game-studio/
+- Categories: Game Development
+- Tags: helix core
+If you’ve been wondering how to start a game studio, Assembla can answer your questions and get you the direction you need to get started.
+
+
+> Choosing the right game development software puts you one step closer to success, so we give you a quick rundown of the top game development tools &amp; platforms.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/game-development-software/
+- Categories: Game Development, Perforce, Subversion
+- Tags: git
+Choosing game development tools and platforms that are a good fit for your team is critical for efficient and successful game development.
+
+
+> Whether you’re an indie studio or an AAA studio, investing in DevOps practices and tools can improve production pipelines in the gaming industry.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/devops-game-development/
+- Categories: DevSecOps, Game Development
+- Tags: agile, ci/cd, helix core
+DevOps can simplify and streamline your game development process and give you that end-to-end view of your project.
+
+
+> We compare on-prem vs Subversion cloud hosting, as well as several Subversion hosting services, to help you find the best SVN hosting for your development team.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/svn-hosting/
+- Categories: Source code Management, Subversion
+- Tags: svn, version control
+The best SVN hosting provider should have a great set of tools for developers, custom options, comprehensive security, and experience working with SVN.
+
+
+> Protecting source code is vital to every software developer. Make sure you follow a set of source code security best practices to prevent code from leaking.
+
+- Published: 2025-06-04
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/source-code-security/
+- Categories: Source code Management
+- Tags: source code, version control
+Software supply chain attacks are on the rise and source code security is crucial. Read the complete guide.
+
+
+> Understand the technical differences between Perforce Edge Servers vs Forwarding Replicas and how they can enhance performance for remote teams.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/perforce-edge-server-vs-forwarding-replicas/
+- Categories: DevSecOps, Perforce, Source code Management
+- Tags: helix core
+Ever-increasing file sizes are amplifying one of the challenges game development: the difficulty of collaborating.
+
+
+> Perforce vs Git compared: how they handle large binary files, branching, permissions, and pricing, and when a team should choose managed Perforce hosting.
+
+- Published: 2025-06-04
+- Modified: 2026-09-04
+- URL: https://get.assembla.com/blog/perforce-vs-git/
+- Categories: Source code Management, Perforce
+- Tags: git, helix core, version control
+Find out which version control system, Perforce or Git, is right for your project.
+
+
+> Uncover key steps to choose the best version control system for your team. Compare features, cloud vs. self‑hosted setups, scalability, and team fit.
+
+- Published: 2025-06-04
+- Modified: 2025-06-24
+- URL: https://get.assembla.com/blog/how-to-choose-version-control-system/
+- Categories: DevSecOps, Perforce, Source code Management, Subversion
+- Tags: git, helix core, svn, version control
+Depending on their project, different software development teams might choose one type of VCS tool instead of another.
+
+
+> Learn how to start creating a game, from game design to development. Start building your first video game step by step with the right tools.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/building-first-game/
+- Categories: Game Development, Project Management
+- Tags: git, helix core, perforce, svn, unreal engine
+With the right tools and process in place, anyone can create an amazing game.
+
+
+> Assembla's quick guide explains what is continuous integration, continuous delivery and continuous deployment, as well as some tools and best practices.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/continuous-delivery-deployment-integration/
+- Categories: DevSecOps
+- Tags: ci/cd
+Continuous delivery, continuous deployment and continuous integration are often confused and consequently they can be misused.
+
+
+> Are your current error management practices slowing your team down? Learn how to fix bugs and manage errors in agile development with 4 actionable tips.
+
+- Published: 2025-06-04
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/how-to-best-handle-bugs-in-your-agile-practices/
+- Categories: Source code Management
+- Tags: agile, error management
+Are your current error management practices slowing your team down?
+
+
+> Compare Perforce hosting options in 2026: on-premises, self-managed cloud, P4 Cloud, and managed hosting. See which fits your team size, region, and budget.
+
+- Published: 2025-06-02
+- Modified: 2026-09-08
+- URL: https://get.assembla.com/blog/perforce-hosting/
+- Categories: Perforce
+- Tags: helix core
+There are a handful of ways to host Perforce Helix Core on the cloud, but which is right for you?
+
+
+> Building a strong software development team structure is key for faster shipments. Here are 4 precious tips to align project managers and software developers.
+
+- Published: 2025-06-02
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/software-devs-project-managers/
+- Categories: Project Management, Source code Management
+- Tags: agile, communication
+By bridging the gap between software developers and project managers, products and features will be shipped faster.
+
+
+> Learn from the best: 10 tips to supercharge Perforce performance and boost remote development. Assembla has 10+ years experience hosting Perforce in the cloud.
+
+- Published: 2025-06-02
+- Modified: 2025-06-06
+- URL: https://get.assembla.com/blog/how-to-maximize-perforce-performance/
+- Categories: Perforce, DevSecOps
+- Tags: helix core, tutorial
+10 Tips to Supercharge Your Perforce Hosting.
+
+
+- Published: 2025-05-06
+- Modified: 2025-05-06
+- URL: https://get.assembla.com/blog/latest-updates-2404/
+- Categories: Assembla News
+This month’s release focuses on flexibility for Subversion users, critical bug fixes across repositories, tickets, and time tracking.
+
+
+- Published: 2025-04-14
+- Modified: 2025-05-06
+- URL: https://get.assembla.com/blog/reduce-perforce-server-hosting-costs/
+- Categories: Perforce
+Reduce Perforce server hosting costs by up to 90% without sacrificing performance. Discover key strategies to optimize cloud storage, compute, and more.
+
+
+- Published: 2025-04-10
+- Modified: 2025-04-10
+- URL: https://get.assembla.com/blog/latest-updates-2503/
+- Categories: Assembla News
+
+> In this guide, we'll talk through proven strategies for structuring and optimizing your SVN repository to avoid common pitfalls.
+
+- Published: 2025-03-24
+- Modified: 2025-03-28
+- URL: https://get.assembla.com/blog/svn-repository-optimization-tips/
+- Categories: Subversion, Source code Management
+In this guide, we'll talk through proven strategies for structuring and optimizing your SVN repository to avoid common pitfalls.
+
+
+- Published: 2025-03-10
+- Modified: 2025-03-10
+- URL: https://get.assembla.com/blog/latest-updates-2502/
+- Categories: Assembla News
+
+- Published: 2025-02-11
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/latest-updates-2501/
+- Categories: Assembla News
+We’re excited to roll out several key updates focused on improving usability, organization, and support.
+
+
+> Learn how to connect TortoiseSVN to cloud repos for a modern, reliable SVN setup with better scalability, accessibility, and performance.
+
+- Published: 2025-02-03
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/guide-tortoisesvn-svn-cloud-repos/
+- Categories: Subversion
+
+> Discover the real risks of exposed secrets in Git repositories. Learn why Git remote security is critical and how to protect your code from growing threats.
+
+- Published: 2025-01-27
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/git-remote-security-risks/
+- Categories: Git
+
+> Dealing with shifting IT project requirements? See how Adaptive Software Development keeps projects on track, costs low, and customers happy.
+
+- Published: 2025-01-20
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/adaptive-software-development-benefits/
+- Categories: Software Development, Project Management
+Dealing with shifting IT project requirements? See how Adaptive Software Development keeps projects on track, costs low, and customers happy.
+
+
+> Compare the best GitHub alternatives for 2026: GitLab, Bitbucket, Assembla, Gitea. See which one fits your team on cost, control, security, and SVN support.
+
+- Published: 2025-01-13
+- Modified: 2026-08-04
+- URL: https://get.assembla.com/blog/top-github-alternatives/
+- Categories: Source code Management, Git
+
+- Published: 2025-01-07
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/latest-updates-2412/
+- Categories: Assembla News
+This release brings quality-of-life improvements to the Wiki tool, search, ticket management, the Time tool, and a new quick Merge Request creation flow.
+
+
+- Published: 2024-12-13
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/git-vs-github-are-git-and-github-the-same/
+- Categories: Source code Management
+Demystify Git vs GitHub, explore alternatives like GitLab, Bitbucket, and Assembla, and gain insights to choose the right version control platform for your team.
+
+
+- Published: 2024-12-12
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/latest-updates-2411/
+- Categories: Assembla News
+We made significant changes to our search system, enhanced support for Perforce and GitHub, and tackled some pesky bugs.
+
+
+> Explore the six phases of the SDLC and learn best practices to streamline your project. Discover how Assembla supports the SDLC with VCS &amp; PM tools.
+
+- Published: 2024-12-02
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/software-development-life-cycle-deep-dive/
+- Categories: Project Management, Software Development
+Explore the six phases of the SDLC and learn best practices to streamline your project. Discover how Assembla supports the SDLC with VCS & PM tools.
+
+
+- Published: 2024-11-26
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/software-release-management/
+- Categories: Software Development, Project Management
+Discover how Agile software release management ensures timely, high-quality deliveries with incremental updates, risk management, and efficient workflows.
+
+
+- Published: 2024-11-20
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/latest-updates-smarter-search-and-more-24-10/
+- Categories: Assembla News
+See Assembla's latest updates, including enhanced search with space filters, advanced ticket filters, security upgrades, and performance improvements.
+
+
+> Learn how integrated documentation eliminates knowledge silos, boosts software team collaboration, and links code, tickets, and tools for streamlined workflows.
+
+- Published: 2024-11-18
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/why-integrated-documentation-is-key/
+- Categories: Software Development, Project Management
+Learn how integrated documentation eliminates knowledge silos, boosts software team collaboration, and links code, tickets, and tools for streamlined workflows.
+
+
+- Published: 2024-11-11
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/how-to-optimize-git-remote-repositories-a-comprehensive-guide/
+- Categories: Source code Management, Git
+Optimize your Git remote for performance and security. Discover best practices to manage code history, reduce clutter, and keep your repository running smoothly.
+
+
+- Published: 2024-10-27
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/5-it-task-management-faqs/
+- Categories: Project Management
+This article addresses the top 5 IT task management software questions frequently asked by developers and provides actionable, consensus-driven answers.
+
+
+- Published: 2024-10-23
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/wiki-tool-upgrade-2410/
+- Categories: Assembla News
+Assembla’s Wiki tool has received a significant update. Among other things, the new WYSIWYG editor will enhance your knowledge sharing experience on Assembla.
+
+
+- Published: 2024-10-22
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/introducing-our-new-logo/
+- Categories: Assembla News
+Today, we’re excited to unveil our new logo—a visual representation of our mission and the next step in our journey.
+
+
+- Published: 2024-09-30
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/scope-creep-agile-software-development/
+- Categories: Project Management
+Learn how to manage scope creep in Agile projects, its impact on sprints, and strategies to keep Agile development on time and within budget.
+
+
+> Explore Agile estimates, including story points, time estimates, and T-shirt sizing, to streamline your software development process and manage project complexity.
+
+- Published: 2024-09-24
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/agile-estimates-story-points-tshirt-sizing-time/
+- Categories: Project Management
+Explore Agile estimates, including story points, time estimates, and T-shirt sizing, to streamline your software development process and manage project complexity.
+
+
+- Published: 2024-09-17
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/maintenance-update-2408/
+- Categories: Assembla News
+The latest maintenance updates include a host of new fixes and improvements that will give your projects even more flexibility.
+
+
+- Published: 2024-09-16
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/5-reasons-to-link-code-commits-to-tickets/
+- Categories: Source code Management, Project Management
+Discover the top 5 benefits of linking code commits to tickets. Learn how this simple practice can enhance team communication, streamline workflows, and boost project efficiency.
+
+
+- Published: 2024-09-10
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/choosing-source-code-repository-for-your-project/
+- Categories: Source code Management
+Discover the differences between monorepo, polyrepo, and hybrid repo structures to choose the best source code repository type for your team.
+
+
+- Published: 2024-09-02
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/source-control-with-git-to-improve-collaboration/
+- Categories: Git, Source code Management
+Master source control with Git as your team grows. Learn key strategies to set up scalable tools, processes, and best practices for long-term success.
+
+
+> Assembla's Agile IT project management software seamlessly integrates code repositories with customizable Agile processes, optimizing your development workflow.
+
+- Published: 2024-08-26
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/getting-started-agile-it-project-management-assembla/
+- Categories: Project Management
+Assembla's Agile IT project management software seamlessly integrates code repositories with customizable Agile processes, optimizing your development workflow.
+
+
+- Published: 2024-08-19
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/choose-best-agile-framework-for-your-team/
+- Categories: Project Management
+- Tags: agile
+Discover the top Agile frameworks that promote collaboration and adaptability, rooted in the Agile Manifesto's principles for successful software development.
+
+
+> Discover how integrating Git with project management tools can enhance team collaboration and streamline workflows. Explore advanced Git techniques.
+
+- Published: 2024-08-12
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/git-project-management/
+- Categories: Git, Project Management, Source code Management
+Discover how integrating Git with project management tools can enhance team collaboration and streamline workflows. Explore advanced Git techniques and strategies.
+
+
+> Integrate version control with project management tools for seamless collaboration. Discover benefits and options to streamline your team's workflow efficiently.
+
+- Published: 2024-08-05
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/why-merge-project-management-version-control/
+- Categories: Project Management, Source code Management
+Integrate version control with project management tools for seamless collaboration. Discover benefits and options to streamline your team's workflow efficiently.
+
+
+- Published: 2024-07-29
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/product-roadmap-0724/
+- Categories: Assembla News
+Discover Assembla's upcoming product roadmap, featuring key updates and innovations. Watch our webinar or read the article for detailed insights.
+
+
+> Enhance product quality by incorporating manual, automated, and AI code reviews. Reduce errors, boost security, aid new developers, and improve consistency and documentation.
+
+- Published: 2024-07-24
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/code-review-best-practices/
+- Categories: Source code Management
+Enhance product quality by incorporating manual, automated, and AI code reviews. Reduce errors, boost security, aid new developers, and improve consistency and documentation.
+
+
+- Published: 2024-07-15
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/merge-conflicts/
+- Categories: Git, Source code Management
+Learn how to manage merge conflicts in a distributed codebase. Discover what causes conflicts, how to avoid them, and effective strategies for resolving them.
+
+
+> We're thrilled to bring you the latest updates in Assembla version 24.06, packed with a series of bug fixes and enhancements.
+
+- Published: 2024-07-10
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/assembla-update-2406/
+- Categories: Assembla News
+We're thrilled to bring you the latest updates in Assembla version 24.06, packed with a series of bug fixes and enhancements.
+
+
+> Explore Git LFS: its benefits, drawbacks, and alternatives like Helix Core, Unity Version Control, SVN, Helix4Git, and Git-Annex for managing large binary files efficiently.
+
+- Published: 2024-07-08
+- Modified: 2025-11-14
+- URL: https://get.assembla.com/blog/git-lfs/
+- Categories: Source code Management, Git
+- Tags: git
+Explore Git LFS: its benefits, drawbacks, and alternatives like Helix Core, Unity Version Control, SVN, Helix4Git, and Git-Annex for managing large binary files efficiently.
+
+
+> Discover how to evaluate a good project management tool effectively. Learn the key factors to consider during demos or trials to find the best tool for your team's needs.
+
+- Published: 2024-07-01
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/what-makes-good-project-management-tool-software-development/
+- Categories: Project Management
+Discover how to evaluate project management tools effectively. Learn the key factors to consider during demos or trials to find the best tool for your team's needs.
+
+
+> Branching strategies to optimize your team's workflow, simplify code collaboration and minimize merge conflicts and regression bugs.
+
+- Published: 2024-06-17
+- Modified: 2025-05-27
+- URL: https://get.assembla.com/blog/branching-strategies/
+- Categories: Source code Management
+- Tags: git, svn, version control
+Optimize your team's workflow with the right branching strategy to simplify code collaboration and minimize merge conflicts and regression bugs.
+
+
+- Published: 2024-06-12
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/maintenance-update-2405/
+- Categories: Assembla News
+- Tags: changelog
+In May we continued to address your feedback and resolved over a dozen customer-reported issues.
+
+
+> Discover tips to manage remote teams effectively amidst communication, time zone, and productivity challenges.
+
+- Published: 2024-06-11
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/how-to-manage-remote-software-teams/
+- Categories: Project Management
+- Tags: agile, kanban, scrum
+Discover tips to manage remote teams effectively amidst communication, time zone, and productivity challenges.
+
+
+> See how you can set up an SVN server for your dev team, from manual setups to quick, out-of-the-box solutions. Find the best approach for your workflow.
+
+- Published: 2024-06-03
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/svn-server/
+- Categories: Source code Management, Subversion
+- Tags: svn
+See how you can set up an SVN server for your dev team, from manual setups to quick, out-of-the-box solutions. Find the best approach for your workflow.
+
+
+- Published: 2024-05-27
+- Modified: 2025-05-27
+- URL: https://get.assembla.com/blog/migrate-from-svn-to-git/
+- Categories: Git, Source code Management, Subversion
+- Tags: git, svn, version control
+Migrating your projects from SVN to Git can seem like a daunting task. But it is straightforward when you use these built-in git commands or open source utilities.
+
+
+- Published: 2024-05-20
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/svn-vs-git/
+- Categories: Git, Subversion
+Choosing the right version control system is a crucial step. SVN vs Git are popular options, each with its own pros and cons.
+
+
+- Published: 2024-05-13
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/aws-devops-outsourcing/
+- Categories: DevSecOps
+Using AWS DevOps outsourcing can help your team be more efficient and cost-effective by offloading the work to a DevOps expert.
+
+
+- Published: 2024-05-09
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/maintenance-update-0524/
+- Categories: Assembla News
+- Tags: changelog
+The latest maintenance update includes a significant number of improvements and fixes. Now live!
+
+
+- Published: 2024-05-06
+- Modified: 2025-05-27
+- URL: https://get.assembla.com/blog/svn-version-control/
+- Categories: Source code Management, Subversion
+- Tags: svn
+Learn all about SVN version control and why it remains a top choice for managing large codebases and collaborating efficiently.
+
+
+> Discover the ideal Git hosting provider for your team's collaboration and technical needs. Explore factors like workflow, infrastructure, and maintenance.
+
+- Published: 2024-04-29
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/git-hosting/
+- Categories: Source code Management, Git
+- Tags: code repositories, git
+Discover the ideal Git hosting provider for your team's collaboration and technical needs. Explore factors like workflow, infrastructure, and maintenance.
+
+
+> Explore deployment options &amp; maximize benefits with this complete guide for AWS Perforce. Discover the power of Perforce on AWS for top-notch version control.
+
+- Published: 2024-04-22
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/aws-perforce/
+- Categories: Perforce
+- Tags: aws, helix core
+This guide walks you through AWS Perforce configuration options and what to consider to prepare for deployment.
+
+
+> How much does Perforce really cost? We break down Perforce pricing, the Helix Core license, the $39 P4 Cloud plan, and what managed hosting really costs.
+
+- Published: 2024-04-15
+- Modified: 2026-09-03
+- URL: https://get.assembla.com/blog/perforce-pricing/
+- Categories: Perforce
+- Tags: helix core
+Learn about the standard pricing for Assembla's Perforce Cloud before discussing the customizable options offered by our Perforce Enterprise plan.
+
+
+> Performing an on-premise to cloud migration can be a challenging task. But choosing managed cloud services can help make it easier (and faster) for your team.
+
+- Published: 2024-04-08
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/on-premise-to-cloud-migration/
+- Categories: Source code Management, DevSecOps
+- Tags: version control
+Performing an on-premise to cloud migration can be a challenging task. See what it entails in this comprehensive overview
+
+
+> Assembla provides managed cloud hosting for automotive software development. Learn how our scalability, storage, performance, and security can help your team.
+
+- Published: 2024-03-18
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/automotive-software-development-tools/
+- Categories: Perforce, Source code Management
+- Tags: helix core, version control
+Discover the unique challenges of automotive software development for electric and semi-autonomous vehicles.
+
+
+> For teams that are looking to save time and money, DevOps outsourcing can be a great option. Managed DevOps can provide a wide range of benefits.
+
+- Published: 2024-03-11
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/devops-outsourcing/
+- Categories: DevSecOps
+For teams that are looking to save time and resources on DevOps, outsourcing can be a great option.
+
+
+- Published: 2024-03-04
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/virtual-reality-development-tools/
+- Categories: Source code Management, Perforce
+- Tags: helix core, version control
+Perforce software offers a range of excellent virtual reality development tools that can help your team save both time and resources.
+
+
+- Published: 2024-02-29
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/assembla-platform-perforce-single-tenant/
+- Categories: Perforce, Project Management, Source code Management
+- Tags: helix core, version control
+You can now utilize all the benefits of the Assembla Platform on a fully managed, Single-Tenant instance that can be located wherever you want.
+
+
+> Knowing how to make a great game design document will help your team organize your strategy. This is your guide on how to make a great design doc.
+
+- Published: 2024-02-26
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/making-game-design-document/
+- Categories: Game Development
+- Tags: tutorial
+Knowing how to make a great game design document will help your team organize your strategy. This is your guide on how to make a great design doc.
+
+
+- Published: 2024-02-19
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/perforce-solutions-virtual-production/
+- Categories: Perforce, Source code Management
+Using Perforce with your virtual production software can improve productivity and cut inefficiencies. Learn more about using Perforce for filmmaker software.
+
+
+- Published: 2024-01-29
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/indie-game-funding-success-stories/
+- Categories: Game Development
+Explore how 5 indie game studios successfully found funding and discover varied funding sources, from crowdfunding to venture capital.
+
+
+> See how selecting a source code management platform with SOC 2 Type II compliance puts any concerns of moving source code to the cloud to rest.
+
+- Published: 2024-01-22
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/soc-2-type-ii/
+- Categories: Source code Management
+- Tags: source code security
+Selecting a source code management platform with SOC 2 Type 2 certification puts any concerns of moving to the cloud to rest.
+
+
+- Published: 2024-01-15
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/qa-hyperion-realms/
+- Categories: Perforce, Customer Stories, Game Development
+- Tags: game studio, helix core, version control
+Q&A with Hyperion Realms—an up-and-coming game studio crafting an open-world survival game with the help of Assembla Perforce Cloud.
+
+
+- Published: 2024-01-08
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/popular-scm-tools/
+- Categories: Source code Management
+- Tags: git, helix core, svn, version control
+Effective source code management tools will improve productivity and collaboration. Here is the breakdown of the most popular scm tools available.
+
+
+> While Bitbucket is a great option for many developers, there are several excellent Bitbucket alternatives on the market. Find out which one is right for you.
+
+- Published: 2024-01-02
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/bitbucket-alternatives/
+- Categories: Source code Management
+- Tags: version control
+While Bitbucket is a great option for many developers, there are several excellent Bitbucket alternatives on the market. Find out which one is right for you.
+
+
+- Published: 2023-12-14
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/new-feature-api-user-reports/
+- Categories: Assembla News
+- Tags: version control
+Introducing a new feature: nightly reports of User Information. Portfolio Admins can easily access and integrate the data into their identity management systems via API.
+
+
+> Using complex workflow management best practices will enable your team to get the most out of your chip design software. Find out how Perforce can help.
+
+- Published: 2023-12-04
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/semiconductor-design-complex-workflows/
+- Categories: Perforce, Source code Management
+- Tags: helix core
+Using complex workflow management best practices will enable your team to get the most out of your chip design software. Find out how Perforce can help.
+
+
+> Discover why some remote virtual production studios are choosing Perforce's Helix Core for seamless version control in evolving home and hybrid film production.
+
+- Published: 2023-11-27
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/virtual-production-perforce/
+- Categories: Perforce
+- Tags: helix core, version control
+Discover why some remote virtual production studios are choosing Helix Core for seamless version control in the evolving landscape of remote and hybrid film production.
+
+
+> Elevate your game studio by implementing tactics to retain gaming talent. Let’s walk through some forward-thinking approaches about how to retain your talent.
+
+- Published: 2023-11-20
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/retain-gaming-talent-tactics/
+- Categories: Game Development
+Retain top gaming talent with strategies for inclusion, continuous learning, mentorships, career paths, compensation impact, and adapting to new work models
+
+
+> Game Dev talent acquisition is one of the industry's top challenges. Explore successful but underused DEI hiring strategies to tackle this issue.
+
+- Published: 2023-11-20
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/game-dev-talent-acquisition/
+- Categories: Game Development
+Hiring top gaming talent is one of the industry's great challenges. Explore the success of underutilized Diversity, Equity, and Inclusion (DEI) hiring strategies tailored to address this industry-wide issue.
+
+
+> Introducing the DevSecOps Process into your team can help build collaboration, improve timelines, and make it easier to manage the workload.
+
+- Published: 2023-11-16
+- Modified: 2025-05-26
+- URL: https://get.assembla.com/blog/devsecops-process/
+- Categories: DevSecOps
+Introducing the DevSecOps Process into your team can help build collaboration, improve timelines, and make it easier to manage the workload.
+
+
+> Sprints play a key role in product delivery for software development teams embracing Agile Scrum. Learn how you can map out your sprints on Assembla.
+
+- Published: 2023-11-13
+- Modified: 2025-11-13
+- URL: https://get.assembla.com/blog/sprint-planning-software-development/
+- Categories: Project Management, Assembla News
+- Tags: agile
+Sprints play a key role in product delivery for software development teams embracing Agile Scrum. Learn how you can map out your sprints on Assembla.
+
+
+
