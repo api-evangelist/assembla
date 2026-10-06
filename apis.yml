@@ -20,7 +20,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-22'
 
-modified: '2026-09-22'
+modified: '2026-10-06'
 
 tags:
 - Version Control
@@ -42,6 +42,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://get.assembla.com/blog/feed/
+  type: BlogRSS
 - type: Plans
   url: plans/assembla-plans-pricing.yml
 - type: Compliance
